@@ -31,10 +31,15 @@ As only 1,549 employees are eligible for the mentorship program, there are more 
 
 To provide more insight into the upcoming "silver tsunami", it may be helpful to know how many mentorship-eligible employees there are by title (as shown below) to have a better understanding of how to allocate resources when training and filling positions of retirees.
 
+
 *Number of mentorship-eligible employees by title:*
+
 ![mentorship_eligible_title](https://github.com/borkard/Pewlett-Hackard-Analysis/blob/main/mentorship_eligible_title.PNG)
+
 
 Additionally, it may be useful to group the retiring employees by the year they started working at Pewlett Hackard to better understand the retention of Pewlett Hackard employees.
 
+
 *Number of retiring employees by starting year:*
+
 ![from_date_retirees](https://github.com/borkard/Pewlett-Hackard-Analysis/blob/main/from_date_retirees.PNG)
