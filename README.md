@@ -7,7 +7,6 @@ The analysis aimed to answer the questions of who would be retiring in the next 
 Although the employee data provided was in six different .csv files, an employee database was created using Postgres and SQL to generate a list of all Pewlett Hackard employees eligible for the retirement package. Using this employee database, the number of retiring employees per title and employees eligible to participate in a mentorship program were determined.
 
 ## Results
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 * Most retirement vacancies will need to be filled in senior positions as 29,414 Senior Engineers and 28,254 Senior Staff are eligible for retirement in the coming years.
 * Only 2 managers are eligible for retirement.
@@ -29,6 +28,10 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 There are 90,398 positions that will need to be filled as the "silver tsunami" begins to make an impact.
 As only 1,549 employees are eligible for the mentorship program, there are more than enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-** How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+To provide more insight into the upcoming "silver tsunami", it may be helpful to know how many mentorship-eligible employees there are by title (as shown below) to have a better understanding of how to allocate resources when training and filling positions of retirees.
+
+![mentorship_eligible_title](https://github.com/borkard/Pewlett-Hackard-Analysis/blob/main/mentorship_eligible_title.PNG)
+
+Additionally, it may be useful to group the retiring employees by the year they started working at Pewlett Hackard to better understand the retention of Pewlett Hackard employees.
+![from_date_retirees](https://github.com/borkard/Pewlett-Hackard-Analysis/blob/main/from_date_retirees.PNG)
